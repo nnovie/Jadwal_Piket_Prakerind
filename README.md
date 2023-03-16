@@ -41,11 +41,12 @@
    <tr>
       <th>6/th>
       <th>Sabtu</th>
-      <th>Semua Lai-Laki SMK Permata Harapan</th>
+      <th>Semua Laki-Laki SMK Permata Harapan</th>
 </tr>
    <tr>
       <th>7/th>
-      <th>Semua Laki-Laki SMK Permata Harapan  & Semua Perempuan SMK Ibnu Sina Batam</th>
+      <th>Minggu</th>
+      <th>Semua Laki-Laki SMK Permata Harapan & Semua Perempuan SMK Ibnu Sina Batam</th>
 </tr>
    
 </html>
