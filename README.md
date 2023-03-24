@@ -29,22 +29,22 @@
    <th>Riska Siva Nabila & Novi Trie Lestari</th>
 </tr>
 <tr>
-   <th>4./th>
+   <th>4.</th>
    <th>Kamis</th>
    <th>Jofinson & Rizkan Isya Pratama</th>
 </tr>
 <tr>
-   <th>5./th>
+   <th>5.</th>
    <th>Jum'at</th>
    <th>Semua Laki-Laki SMK Permata Harapan</th>
 </tr>
 <tr>
-   <th>6./th>
+   <th>6.</th>
    <th>Sabtu</th>
    <th>Semua Laki-Laki SMK Permata Harapan</th>
 </tr>
 <tr>
-   <th>7./th>
+   <th>7.</th>
    <th>Minggu</th>
    <th>Semua Laki-Laki SMK Permata Harapan & Semua Perempuan SMK Ibnu Sina Batam</th>
 </tr>
